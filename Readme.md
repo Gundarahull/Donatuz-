@@ -63,7 +63,7 @@ The Email Notification Service handles email notifications for various actions l
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/YourProject.git
+   git clone https://github.com/Gundarahull/Donatuz-.git
    cd YourProject
     ```
 2. Install dependencies:
